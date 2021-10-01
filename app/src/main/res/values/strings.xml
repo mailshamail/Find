@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Find</string>
+    <string name="local_service_started">Процесс запущен</string>
+    <string name="local_service_stop">Процесс остановлен</string>
+</resources>
